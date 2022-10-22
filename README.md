@@ -1,0 +1,1 @@
+Project for beginners to learn concepts of HTML ,CSS and JS.
