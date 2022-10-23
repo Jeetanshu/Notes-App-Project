@@ -1,1 +1,1 @@
-Notes is the best place to jot down quick thoughts or to save longer notes filled with checklists, images, web links, scanned documents, handwritten notes, or sketches. And with iCloud, it's easy to keep all your devices in sync, so you'll always have your notes with you.
+Notes is a good helper to manage your schedules and notes. It gives you a quick and simple notepad editing experience when you write notes, memo, email,etc.
